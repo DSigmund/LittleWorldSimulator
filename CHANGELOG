@@ -1,0 +1,15 @@
+CHANGELOG
+=========
+
+Legend:
++ = Adding
+- = Removing
+% = Change
+(BY) = Short by000000
+
+
+
+0.1:
+  +(DJS) Added CHANGELOG
+  +(DJS) Added README.md
+  +(DJS) Added LICENSE

@@ -1,9 +1,0 @@
-<patchlist>
-  <patch name="0.1">
-    <fix type="add">
-      <author>Dominik Sigmund</author>
-      <case>No Patchlist</case>
-      <solution>Added Patchlist</solution>
-    </fix>
-  </patch>
-</patchlist>
